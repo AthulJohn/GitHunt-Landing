@@ -11,6 +11,9 @@ Welcome to GitHunt.
 
 * #### If you are new to git, check out [this tutorial](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 
-* #### If you have completed the above requirements, head over to the [tasks file](./tasks.md).
+* #### If you want to learn more about FOSS and Hacktoberfest, stop by [here](./hacktoberfest.md)
+
+
+* #### If you have completed the above requirements, head over to the [tasks file]().
 
 * #### If you have any doubts regarding any of the above steps feel free to contact the event coordinators.
