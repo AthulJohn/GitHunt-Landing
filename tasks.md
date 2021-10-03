@@ -28,3 +28,5 @@ Welcome to your first task. Let's just refresh what we have learned about git.
 * Now you can notice that the changes you just made have been updated in your Github account. But it is updated in just your repository. To make this change a part of the original repository, you have to give a pull request. You can do this by clicking the green "Compare & Pull Request Button". ![Pull Request Image](./img3.jpg) <br>
 Now you should be in the "Open a Pull Request" Page. Enter your message and click "Create Pull Request" button. ![Compare Image](./img4.jpg)
 
+
+> Once you have completed head over to this [repository](./#2ndrepo-linkhere) to get one step closer to your submissions
